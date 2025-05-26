@@ -1,7 +1,12 @@
-## Hi there 👋
+### Hi there 👋
+
+- 👨‍💻 [Google Scholar](https://scholar.google.com/citations?user=pOpgtRgAAAAJ)
+- 😎 [Personal Website](http://pdaicode.github.io) 
+- ⚡ [YT Channel](https://www.youtube.com/@incomepassived)
 
 <!--
-**pdai25/pdai25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdaicode)](https://github.com/anuraghazra/github-readme-stats)
+**pdaicode/pdaicode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
